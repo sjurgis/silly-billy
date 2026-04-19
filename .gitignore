@@ -1,0 +1,4 @@
+node_modules/
+plans.json
+structured_plans.json
+.idea/

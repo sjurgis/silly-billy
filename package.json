@@ -1,0 +1,11 @@
+{
+  "name": "billy_bill",
+  "version": "1.0.0",
+  "description": "Extract pricing plans from example.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "structure": "node structure.js"
+  },
+  "private": true
+}
